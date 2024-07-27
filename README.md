@@ -40,6 +40,16 @@ I am a software developer based in Bangalore, Karnataka, currently pursuing a BE
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
+## Projects (collaborated and built):
+- **Diabetes Prediction Application** - https://github.com/Himanshun3gi/diabetes-prediction-STREAMLIT
+- **Music Recommendation System** - https://github.com/sanvikarthik/music_recommendation_spotify
+- **Vend-O print Frontend** - https://github.com/Vend-O-Print/vendO-frontend
+- **Fault Detection in Pneumatic Systems(Ongoing)** - https://github.com/sanvikarthik/Fault_Detection
+- **File Encrytion/Decryption using AngularJS** - https://github.com/sanvikarthik/anjs_project
+- **Basic Pomodoro Application** - https://github.com/sanvikarthik/pomoapp
+
+
+
 ## Contact Me
 
 - **Email**: [saisanvi.k@gmail.com](mailto:saisanvi.k@gmail.com)
