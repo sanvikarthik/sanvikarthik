@@ -21,13 +21,12 @@ I am a software developer based in Bangalore, Karnataka, currently pursuing a BE
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### Web Development
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### Tools & Technologies
@@ -41,7 +40,7 @@ I am a software developer based in Bangalore, Karnataka, currently pursuing a BE
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
 ## Projects (collaborated and built):
-- **Diabetes Prediction Application** - https://github.com/Himanshun3gi/diabetes-prediction-STREAMLIT
+- **Diabetes Prediction Application** - https://github.com/sanvikarthik/diabetes-prediction
 - **Music Recommendation System** - https://github.com/sanvikarthik/music_recommendation_spotify
 - **Vend-O print Frontend** - https://github.com/Vend-O-Print/vendO-frontend
 - **Fault Detection in Pneumatic Systems(Ongoing)** - https://github.com/sanvikarthik/Fault_Detection
