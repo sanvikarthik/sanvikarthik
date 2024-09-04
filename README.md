@@ -41,6 +41,7 @@ I am a software developer based in Bangalore, Karnataka, currently pursuing a BE
 
 ## Projects (collaborated and built):
 - **Diabetes Prediction Application** - https://github.com/sanvikarthik/diabetes-prediction
+    - using streamlit -> https://github.com/Himanshun3gi/diabetes-prediction-STREAMLIT
 - **Music Recommendation System** - https://github.com/sanvikarthik/music_recommendation_spotify
 - **Vend-O print Frontend** - https://github.com/Vend-O-Print/vendO-frontend
 - **Fault Detection in Pneumatic Systems(Ongoing)** - https://github.com/sanvikarthik/Fault_Detection
