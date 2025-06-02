@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a software developer based in Bangalore, Karnataka, currently pursuing a BE in Computer Science and Engineering . My areas of interest include front-end frameworks, Java, Python, Networkking and machine learning. I am passionate about solving complex problems and contributing to innovative projects.
+I am a software developer based in Bangalore, Karnataka, a BE graduate in Computer Science and Engineering . My areas of interest include front-end frameworks, Java, Python, Information Security, Networking, Aritificial Intelligence and machine learning. I am passionate about solving complex problems and contributing to innovative projects.
 
 ## Skills
 
